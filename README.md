@@ -26,5 +26,5 @@ MSDN에서 제공하는 비동기 방식의 이벤트 수신하는 예제를 조
 
 ## 실행
 
-![](/data/minitor.gif)
+![](/data/monitor.gif)
 
