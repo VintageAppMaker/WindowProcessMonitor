@@ -22,3 +22,9 @@ MSDN에서 제공하는 비동기 방식의 이벤트 수신하는 예제를 조
 사용자는 CProcessMon 클래스를 상속받아 StartMonitor() 함수를 호출하면 그 결과를 OnDelete() 또는 OnCreate() 메소드를 통해 수신 받을 수 있다.
 
 ![](http://postfiles12.naver.net/20120526_251/adsloader_1337964001709Rgoa2_PNG/2.PNG?type=w2)
+
+
+## 실행
+
+![](/data/minitor.gif)
+
